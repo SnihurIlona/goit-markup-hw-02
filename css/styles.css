@@ -23,6 +23,6 @@ body {
     color: #434455;
 }
 
-.header-wrap .link:hover, .header-wrap .linl:focus {
+.header-wrap .link:hover, .header-wrap .link:focus {
     color: #4D5AE5;
 }
