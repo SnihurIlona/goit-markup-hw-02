@@ -14,6 +14,11 @@ body {
     font-weight: 800;
         font-size: 18px;
         line-height: 1,1;
+        color: #4D5AE5;
+}
+
+.logo-second {
+    color: var(--title-text-color);
 }
 
 /* List */
@@ -103,4 +108,9 @@ body {
 }
 .secondary-button:hover, .secondary-button:focus {
     color: var(--caption-text-color);
+}
+
+/* Footer logo */
+.footer-logo {
+
 }
