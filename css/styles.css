@@ -12,3 +12,8 @@ body {
 .list {
     list-style: none;
 }
+
+/* Header site */
+.header-site a {
+    color: #2E2F42;
+}
