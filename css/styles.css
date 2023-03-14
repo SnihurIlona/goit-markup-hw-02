@@ -40,3 +40,9 @@ body {
 .button-all:hover, .button-all:focus {
     color: #4D5AE5;
 }
+.secondary-button {
+    color: #4D5AE5;
+}
+.secondary-button:hover, .secondary-button:focus {
+    color: #4D5AE5;
+}
