@@ -18,6 +18,10 @@ body {
     color: #2E2F42;
 }
 
+.header-site .link:hover, .header-site .link:focus {
+    color: #4D5AE5;
+}
+
 /* Header-wrap */
 .header-wrap .link {
     color: #434455;
