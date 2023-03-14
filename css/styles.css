@@ -2,3 +2,13 @@ body {
     font-family: "roboto", sans-serif;
     color: #434455;
 }
+
+/* Header */
+.header-logo {
+
+}
+
+/* List */
+.list {
+    list-style: none;
+}
