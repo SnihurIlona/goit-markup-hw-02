@@ -76,6 +76,10 @@ body {
 }
 
 /* Section 4 */
+.background-light {
+    background-color: #F4F4FD;
+}
+
 .team-masters {
     font-weight: 500;
         font-size: 20px;
