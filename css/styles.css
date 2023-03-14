@@ -1,6 +1,12 @@
+:root {
+    --primary-text-color: #434455;
+    --title-text-color: color: #2E2F42;
+    --caption-text-color: color: #FFFFFF;
+}
+
 body {
     font-family: "roboto", sans-serif;
-    color: #434455;
+    color: var(--primary-text-color);
 }
 
 /* Header */
@@ -20,7 +26,7 @@ body {
     font-weight: 500;
         font-size: 16px;
         line-height: 1,5;
-    color: #2E2F42;
+    color: var(--title-text-color);
 }
 
 /* Header-wrap */
@@ -28,7 +34,7 @@ body {
     font-weight: 400;
         font-size: 16px;
         line-height: 1,5;
-    color: #434455;
+    color: var(--primary-text-color);
 }
 
 .header-wrap .link:hover, .header-wrap .link:focus {
@@ -87,20 +93,14 @@ body {
     font-weight: 500;
         font-size: 16px;
         line-height: 1,5;
-    color: #FFFFFF;
+    color: var(--caption-text-color);
 }
 .main-button:hover, .main-button:focus {
-    color: #4D5AE5;
-}
-.button-all {
-    color: #FFFFFF;
-}
-.button-all:hover, .button-all:focus {
     color: #4D5AE5;
 }
 .secondary-button {
     color: #4D5AE5;
 }
 .secondary-button:hover, .secondary-button:focus {
-    color: #4D5AE5;
+    color: color: #FFFFFF;;
 }
