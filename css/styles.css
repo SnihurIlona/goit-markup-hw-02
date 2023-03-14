@@ -7,13 +7,10 @@
 body {
     font-family: "roboto", sans-serif;
     color: var(--primary-text-color);
+    background-color: #FFFFFF;
 }
 
 /* Header */
-.header {
-    background-color: #FFFFFF;;
-}
-
 .header-logo {
     font-weight: 800;
         font-size: 18px;
