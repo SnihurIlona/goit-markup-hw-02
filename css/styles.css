@@ -17,10 +17,6 @@ body {
         color: #4D5AE5;
 }
 
-.logo-second {
-    color: var(--title-text-color);
-}
-
 /* List */
 .list {
     list-style: none;
