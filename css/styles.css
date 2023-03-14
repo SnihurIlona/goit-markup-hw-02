@@ -26,3 +26,8 @@ body {
 .header-wrap .link:hover, .header-wrap .link:focus {
     color: #4D5AE5;
 }
+
+/* Button */
+.button {
+    color: #4D5AE5;
+}
