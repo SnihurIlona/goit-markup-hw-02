@@ -55,6 +55,7 @@ body {
     font-weight: 700;
         font-size: 56px;
         line-height: 1,07;
+        color: var(--caption-text-color);
 }
 
 /* Section 2 subtitle */
