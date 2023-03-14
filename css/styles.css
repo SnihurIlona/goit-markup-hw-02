@@ -47,6 +47,10 @@ body {
 }
 
 /* Section 1 caption */
+.background-dark {
+    background-color: #2E2F42;;
+}
+
 .caption {
     font-weight: 700;
         font-size: 56px;
