@@ -35,8 +35,58 @@ body {
     color: #4D5AE5;
 }
 
+/* Section 1 caption */
+.caption {
+    font-weight: 700;
+        font-size: 56px;
+        line-height: 1,07;
+}
+
+/* Section 2 subtitle */
+.subtitle {
+    font-weight: 500;
+        font-size: 20px;
+        line-height: 1,2;
+}
+
+.features {
+    font-weight: 400;
+        font-size: 16px;
+        line-height: 1,5;
+}
+
+/* Section 3 */
+.secondary-caption {
+    font-weight: 700;
+        font-size: 36px;
+        line-height: 1,1;
+}
+
+/* Section 4 */
+.team-masters {
+    font-weight: 500;
+        font-size: 20px;
+        line-height: 1,2;
+}
+
+.position {
+    font-weight: 400;
+        font-size: 16px;
+        line-height: 1,5;
+}
+
+/* Footer */
+.description {
+    font-weight: 400;
+        font-size: 16px;
+        line-height: 1,5;
+}
+
 /* Buttons */
 .main-button {
+    font-weight: 500;
+        font-size: 16px;
+        line-height: 1,5;
     color: #FFFFFF;
 }
 .main-button:hover, .main-button:focus {
