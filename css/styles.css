@@ -14,11 +14,11 @@ body {
 }
 
 /* Header site */
-.header-site a {
+.header-site .link {
     color: #2E2F42;
 }
 
 /* Header-wrap */
-.header-wrap a {
+.header-wrap .link {
     color: #434455;
 }
