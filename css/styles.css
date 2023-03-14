@@ -27,10 +27,16 @@ body {
     color: #4D5AE5;
 }
 
-/* Button */
+/* Buttons */
 .main-button {
     color: #FFFFFF;
 }
 .main-button:hover, .main-button:focus {
-    color: #4D5AE5
+    color: #4D5AE5;
+}
+.button-all {
+    color: #FFFFFF;
+}
+.button-all:hover, .button-all:focus {
+    color: #4D5AE5;
 }
