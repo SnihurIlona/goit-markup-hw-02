@@ -17,3 +17,8 @@ body {
 .header-site a {
     color: #2E2F42;
 }
+
+/* Header-wrap */
+.header-wrap a {
+    color: #434455;
+}
