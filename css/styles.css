@@ -37,7 +37,7 @@ body {
 }
 
 /* Header site */
-.header-site {
+.header-site .link {
     font-weight: 500;
         font-size: 16px;
         line-height: 1.5;
