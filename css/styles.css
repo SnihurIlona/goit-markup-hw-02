@@ -1,23 +1,23 @@
 :root {
     --primary-text-color: #434455;
-    --title-text-color: color: #2E2F42;
-    --caption-text-color: color: #FFFFFF;
+    --title-text-color: #2E2F42;
+    --caption-text-color: #FFFFFF;
 }
 
 body {
-    font-family: "roboto", sans-serif;
+    font-family: "Roboto", sans-serif;
     color: var(--primary-text-color);
     background-color: #FFFFFF;
 }
 
 /* Header */
 .header-logo {
-    font-family: 'Raleway'sans-serif;
+    font-family: 'Raleway', sans-serif;
     letter-spacing: 0.03em;
         text-transform: uppercase;
     font-weight: 800;
         font-size: 18px;
-        line-height: 1,17;
+        line-height: 1.17;
         color: #4D5AE5;
 }
 
@@ -40,9 +40,9 @@ body {
 .header-site {
     font-weight: 500;
         font-size: 16px;
-        line-height: 1,5;
+        line-height: 1.5;
         letter-spacing: 0.02em;
-        color: #2E2F42;
+        color: var(--title-text-color);
 }
 
 .header-site .link:hover, .header-site .link:focus {
@@ -57,7 +57,7 @@ body {
 .header-wrap .link {
     font-weight: 400;
         font-size: 16px;
-        line-height: 1,5;
+        line-height: 1.5;
         letter-spacing: 0.02em;
     color: var(--primary-text-color);
 }
@@ -74,25 +74,25 @@ body {
 .caption {
     font-weight: 700;
         font-size: 56px;
-        line-height: 1,07;
+        line-height: 1.07;
         text-align: center;
         letter-spacing: 0.02em;
-        color: #FFFFFF;
+        color: var(--caption-text-color);
 }
 
 /* Section 2 subtitle */
 .subtitle {
     font-weight: 500;
         font-size: 20px;
-        line-height: 1,2;
+        line-height: 1.2;
         letter-spacing: 0.02em;
-        color: #2e2f42;
+        color: var(--title-text-color);
 }
 
 .features {
     font-weight: 400;
         font-size: 16px;
-        line-height: 1,5;
+        line-height: 1.5;
         letter-spacing: 0.02em;
 }
 
@@ -100,11 +100,11 @@ body {
 .secondary-caption {
     font-weight: 700;
         font-size: 36px;
-        line-height: 1,11;
+        line-height: 1.11;
         text-align: center;
         letter-spacing: 0.02em;
         text-transform: capitalize;
-        color: #2e2f42;
+        color: var(--title-text-color);
 }
 
 /* Section 4 */
@@ -119,15 +119,15 @@ body {
 .team-masters {
     font-weight: 500;
         font-size: 20px;
-        line-height: 1,2;
+        line-height: 1.2;
         letter-spacing: 0.02em;
-        color: #2e2f42;
+        color: var(--title-text-color);
 }
 
 .position {
     font-weight: 400;
         font-size: 16px;
-        line-height: 1,5;
+        line-height: 1.5;
         letter-spacing: 0.02em;
 }
 
@@ -135,15 +135,15 @@ body {
 .description {
     font-weight: 400;
         font-size: 16px;
-        line-height: 1,5;
+        line-height: 1.5;
         color: #F4F4FD;
 }
 
 .footer-logo {
-    font-family: 'Raleway' sans-serif;
+    font-family: 'Raleway', sans-serif;
     font-weight: 800;
     font-size: 18px;
-    line-height: 1,17;
+    line-height: 1.17;
     letter-spacing: 0.03em;
         text-transform: uppercase;
     color: #4D5AE5;
@@ -162,37 +162,46 @@ body {
         sans-serif;
     font-weight: 500;
         font-size: 16px;
-        line-height: 1,5;
+        line-height: 1.5;
         letter-spacing: 0.04em;
         cursor: pointer;
-        color: #ffffff;
+        color: var(--caption-text-color);
 }
 
 .main-button:hover, .main-button:focus {
     color: #404BBF;
 }
 .secondary-button {
+    background-color: #F4F4FD;
+    font-family: "Roboto",
+        sans-serif;
     font-weight: 500;
         font-size: 16px;
-        line-height: 1,5;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
         cursor: pointer;
     color: #4D5AE5;
 }
 .secondary-button:hover, .secondary-button:focus {
     color: #FFFFFF;
+    background-color: #404BBF;
 }
 
 /* Portfolio headers */
 .main-features {
     font-weight: 500;
         font-size: 20px;
-        line-height: 1,2;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
         color: var(--title-text-color);
 }
 
 .item {
     font-weight: 400;
         font-size: 16px;
-        line-height: 1,5;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
         color: var(--primary-text-color);
 }
+
+
