@@ -42,6 +42,10 @@ body {
     color: var(--title-text-color);
 }
 
+.header-site .link:hover, .header-site .link:focus {
+    color: #404bbf;
+}
+
 /* Header-wrap */
 .header-wrap .link {
     font-weight: 400;
