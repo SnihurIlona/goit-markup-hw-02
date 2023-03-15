@@ -21,6 +21,12 @@ body {
         color: #4D5AE5;
 }
 
+.second-color {
+    letter-spacing: 0.03em;
+        text-transform: uppercase;
+    color: #2E2F42;
+}
+
 /* List */
 .list {
     list-style: none;
