@@ -37,7 +37,7 @@ body {
 }
 
 /* Header site */
-.about-site {
+.header-site {
     font-weight: 500;
         font-size: 16px;
         line-height: 1.5;
@@ -45,7 +45,7 @@ body {
         color: #2e2f42;
 }
 
-.about-site .link:hover, .about-site .link:focus {
+.header-site .link:hover, .header-site .link:focus {
     color: #404bbf;
 }
 
