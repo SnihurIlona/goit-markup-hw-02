@@ -42,7 +42,7 @@ body {
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
-        color: var(--title-text-color);
+        color: #2e2f42;
 }
 
 .header-site .link:hover, .header-site .link:focus {
