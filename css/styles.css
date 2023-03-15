@@ -11,7 +11,7 @@ body {
 }
 
 /* Header */
-.header-logo .link {
+.header-logo {
     font-family: 'Raleway'sans-serif;
     letter-spacing: 0.03em;
         text-transform: uppercase;
