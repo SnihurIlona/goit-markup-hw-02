@@ -110,7 +110,15 @@ body {
 }
 
 .footer-logo {
+    letter-spacing: 0.03em;
+        text-transform: uppercase;
     color: #4D5AE5;
+}
+
+.second-col {
+    letter-spacing: 0.03em;
+        text-transform: uppercase;
+    color: #F4F4FD;
 }
 
 /* Buttons */
