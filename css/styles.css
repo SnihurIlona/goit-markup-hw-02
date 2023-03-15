@@ -71,6 +71,8 @@ body {
     font-weight: 700;
         font-size: 56px;
         line-height: 1,07;
+        text-align: center;
+        letter-spacing: 0.02em;
         color: #FFFFFF;
 }
 
@@ -133,14 +135,19 @@ body {
 
 /* Buttons */
 .main-button {
+    background-color: #4D5AE5;
+    font-family: "Roboto",
+        sans-serif;
     font-weight: 500;
         font-size: 16px;
         line-height: 1,5;
+        letter-spacing: 0.04em;
         cursor: pointer;
-    color: var(--caption-text-color);
+        color: #ffffff;
 }
+
 .main-button:hover, .main-button:focus {
-    color: #4D5AE5;
+    color: #404BBF;
 }
 .secondary-button {
     font-weight: 500;
