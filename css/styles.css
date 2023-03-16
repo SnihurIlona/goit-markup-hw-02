@@ -169,7 +169,7 @@ body {
 }
 
 .main-button:hover, .main-button:focus {
-    color: #404BBF;
+    background-color: #404BBF;
 }
 .secondary-button {
     background-color: #F4F4FD;
